@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added DeepSeek as an API key provider with models `deepseek-v4-flash` and `deepseek-v4-pro`.
+- Exposed OpenCode Go in the API Keys settings tab (was previously hidden).
+
 ## [1.1.0] - 2026-04-23
 
 ### Breaking Changes

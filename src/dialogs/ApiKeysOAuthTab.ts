@@ -31,7 +31,6 @@ const HIDDEN_PROVIDERS = new Set([
 	"openai-codex",
 	"google-gemini-cli",
 	"opencode",
-	"opencode-go",
 	"kimi-coding",
 ]);
 

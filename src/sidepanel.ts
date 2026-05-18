@@ -126,6 +126,7 @@ const DEFAULT_MODELS: Record<string, string> = {
 	opencode: "claude-opus-4-6",
 	"opencode-go": "kimi-k2.5",
 	openrouter: "openai/gpt-5.1-codex",
+	deepseek: "deepseek-v4-flash",
 	"vercel-ai-gateway": "anthropic/claude-opus-4-6",
 	xai: "grok-4-fast-non-reasoning",
 	zai: "glm-4.6",
